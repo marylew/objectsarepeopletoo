@@ -1,0 +1,71 @@
+p {    
+    color: #FF00FF;
+    font-family: "Futura";
+    font-size: 14px;
+    padding-left: 5%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #FF00FF;
+    font-family: Futura;
+    font-size: 18px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+a{
+    color:blueviolet;
+}
+
+
+table {
+    padding-left: 5%;
+    font-family: "Futura";
+    font-size: 18px;
+    
+
+}
+
+h1{
+    font-family: Futura;
+}
+h2{
+    font-family: Futura;
+}
+h3{
+    font-family: Futura;
+}
+h4{
+    font-family: Futura;
+}
+h5{
+    font-family: Futura;
+}
+
+.active{color:white;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
